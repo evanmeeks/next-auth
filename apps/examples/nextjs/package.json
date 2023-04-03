@@ -18,6 +18,7 @@
     "Lluis Agusti <hi@llu.lu>"
   ],
   "dependencies": {
+    "@types/react-dom": "^18.0.11",
     "next": "latest",
     "next-auth": "latest",
     "nodemailer": "^6",
