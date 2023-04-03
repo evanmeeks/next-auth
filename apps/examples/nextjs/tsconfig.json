@@ -20,7 +20,8 @@
     "next-env.d.ts",
     "next-auth.d.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    "components/Button/Button.tsx"
   ],
   "exclude": ["node_modules"]
 }
